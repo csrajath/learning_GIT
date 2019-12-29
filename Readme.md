@@ -6,5 +6,22 @@ To see the contents or structure of your *.git* file, file that tracks the direc
 tree .git 
 ```
 The output of the bove command i.e the *.git* file structure would look something like below:\
+```git
+├───hooks
+├───info
+├───logs
+│   └───refs
+│       ├───heads
+│       └───remotes
+│           └───origin
+├───objects
+│   ├───info
+│   └───pack
+└───refs
+    ├───heads
+    ├───remotes
+    │   └───origin
+    └───tags
+```
 ![.git structure](images/git.JPG
 )
