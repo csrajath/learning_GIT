@@ -5,3 +5,6 @@ To see the contents or structure of your *.git* file, file that tracks the direc
 ```git
 tree .git 
 ```
+The output of the bove command i.e the *.git* file structure would look something like below:\
+![.git structure](images/git.JPG
+)
